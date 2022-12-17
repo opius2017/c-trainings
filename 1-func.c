@@ -8,7 +8,7 @@ int main()
 
     if (a > b)
     {
-        print("The larger value is %d\n", a);
+        printf("The larger value is %d\n", a);
     }
     else
     {
